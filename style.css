@@ -89,6 +89,38 @@ body {
   margin-bottom: 15px;
 }
 
+#cpu {
+  font-size: 14px;
+  color: #616161;
+  font-weight: 600;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+#gpu {
+  font-size: 14px;
+  color: #616161;
+  font-weight: 600;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+#down {
+  font-size: 14px;
+  color: #616161;
+  font-weight: 600;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+#batt {
+  font-size: 14px;
+  color: #616161;
+  font-weight: 600;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
 .breaker {
   border: 0.1px solid #e2e2e2;
 }
